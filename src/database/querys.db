@@ -1,0 +1,17 @@
+
+//consultas de  base de datos
+    // consultas de base de datos
+    SELECT * FROM Estudiante();
+    //update
+    SELECT * FROM Estudiante WHERE Id_estudiante = '1';
+
+
+//listenings    
+{
+    SELECT * FROM Curso;
+}
+
+//listenings    
+{
+    SELECT * FROM Curso_estudiante;
+}
